@@ -1,0 +1,20 @@
+.AvatarSection {
+  display: flex;
+  width: 358px;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+  height: 105px;
+  border: 1px solid gray;
+}
+.UserOptions {
+  width: 20px;
+  height: 20px;
+  background-image: radial-gradient(circle, #444444 2px, transparent 3px);
+  background-size: 100% 33.33%;
+  cursor: pointer;
+  border-radius: 10%;
+  padding: 15px;
+  border: 1px solid gray;
+}
