@@ -10,6 +10,7 @@
   box-sizing: border-box;
   align-items: center;
   background-color: #ced4da;
+  border: 1px solid gray;
 }
 .ulContainer {
   display: flex;
@@ -31,9 +32,11 @@
   cursor: pointer;
   box-sizing: border-box;
   padding: 0px 16px;
+  border-radius: 10px;
+  border: 0px;
 }
 .ulContainer li:hover {
-  background-color: #04b4fc;
+  background-color: #2c7bc9;
 }
 
 .ulContainer li:hover img {

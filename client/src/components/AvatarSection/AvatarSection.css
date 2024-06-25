@@ -1,12 +1,13 @@
 .AvatarSection {
   display: flex;
-  width: 358px;
+  width: 300px;
   flex-direction: row;
   gap: 30px;
   justify-content: center;
   align-items: center;
   height: 105px;
   border: 1px solid gray;
+  background-color: #ced4d9;
 }
 .UserOptions {
   width: 20px;

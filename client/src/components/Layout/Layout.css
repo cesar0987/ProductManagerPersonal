@@ -5,7 +5,7 @@
 
 .columns {
   display: flex;
-  gap: 22.5px;
+  height: 100%;
 }
 .rowDown {
   display: flex;
